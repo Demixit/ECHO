@@ -1,0 +1,17 @@
+{
+    "models_directory": "models/",
+    "default_model": null,
+    "window_size": {
+        "width": 800,
+        "height": 600
+    },
+    "theme": {
+        "primary_color": "#1a1a1a",
+        "secondary_color": "#2d2d2d",
+        "accent_color": "#d70022"
+    },
+    "chat": {
+        "max_history": 100,
+        "font_size": 12
+    }
+}
